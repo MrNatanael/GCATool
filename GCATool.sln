@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibGCA", "LibGCA\LibGCA.csproj", "{6B6F37A1-3B24-4C87-ABE5-9CDDAA0E39AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCATool", "GCATool\GCATool.csproj", "{28BF0909-CE73-4ED4-94E0-8B490C652758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6F37A1-3B24-4C87-ABE5-9CDDAA0E39AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6F37A1-3B24-4C87-ABE5-9CDDAA0E39AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6F37A1-3B24-4C87-ABE5-9CDDAA0E39AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6F37A1-3B24-4C87-ABE5-9CDDAA0E39AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BF0909-CE73-4ED4-94E0-8B490C652758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BF0909-CE73-4ED4-94E0-8B490C652758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BF0909-CE73-4ED4-94E0-8B490C652758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BF0909-CE73-4ED4-94E0-8B490C652758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
