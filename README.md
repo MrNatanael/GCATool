@@ -10,8 +10,8 @@ ___
 ### Usage
 ```bash
 # Unpacking
-GCATools -u file.gca output_directory
+GCATool -u file.gca output_directory
 
 # Packing
-GCATools -p input_directory output_file.gca
+GCATool -p input_directory output_file.gca
 ```
